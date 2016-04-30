@@ -7,7 +7,7 @@ body
 	margin: 0;
 	padding: 0;
 	color: #333;
-	background-color: #eee;
+	background-color: #fff;
 	font: 1em/1.2 "Source Sans Pro", sans-serif;
 }
 
@@ -17,6 +17,7 @@ h1,h2,h3,h4,h5,h6
 	font-family: "Lora", serif;
 	font-weight: 700;
 	line-height: 1.1;
+	color: #00352f;
 }
 
 h1 { font-size: 2.25em; } /* 36px */
@@ -83,7 +84,7 @@ Layout styles
 .header
 {
 	color: #fff;
-	background: #999;
+	background: #0d4f48;
 	padding: 1em 1.25em;
 }
 
@@ -91,7 +92,7 @@ Layout styles
 
 .nav-bar
 {
-	background: #000;
+	background: #00352f;
 	padding: 0;
 }
 
