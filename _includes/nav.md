@@ -1,2 +1,2 @@
-* [[Hello]](/hello)
-* [[Test]](/)
+* [Hello](/hello)
+* [Test](/)
