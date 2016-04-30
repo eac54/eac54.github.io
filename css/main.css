@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6
 	font-family: "Lora", serif;
 	font-weight: 700;
 	line-height: 1.1;
-	color: #00352f;
+	color: #4ebbb7;
 }
 
 h1 { font-size: 2.25em; } /* 36px */
@@ -90,7 +90,7 @@ Layout styles
 .header
 {
 	color: #fff;
-	background: #42847d;
+	background: #4ebbb7;
 	padding: 1em 1.25em;
 }
 
@@ -101,7 +101,7 @@ Layout styles
 
 .nav-bar
 {
-	background: #236A62;
+	background: #2f9e99;
 	padding: 0;
 }
 
