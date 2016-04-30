@@ -27,8 +27,6 @@ h4 { font-size: 1.125em; } /* 18px */
 h5 { font-size: 1em; } /* 16px */
 h6 { font-size: .875em; } /* 14px */
 
-h1.title { colour: #fff; }
-
 p
 {
 	margin: 0 0 1.5em;
@@ -90,7 +88,10 @@ Layout styles
 	padding: 1em 1.25em;
 }
 
-.header-heading { margin: 0; }
+.header-heading {
+	margin: 0;
+	colour: #fff;
+}
 
 .nav-bar
 {
