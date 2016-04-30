@@ -1,3 +1,3 @@
 ---
-title: Elizabeth Coker Publications
+title: Publications
 ---
