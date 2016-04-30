@@ -71,6 +71,12 @@ a:focus { color: black; }
 a:hover { color: green; }
 a:active { color: red; }
 
+a.display {
+	color: inherit;
+	text-decoration: none;
+}
+
+
 /* -----------------------
 Layout styles
 ------------------------*/
