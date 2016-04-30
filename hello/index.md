@@ -5,8 +5,9 @@ layout: default
 
 The *quick* brown **fox** jumped over the lazy dog.
 
-#Heading 1
-##Heading 2
+# Heading 1
+
+## Heading 2
 
 * Bullet 1
 * Bullet 2
