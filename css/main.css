@@ -83,7 +83,7 @@ Layout styles
 
 .header
 {
-	color: #fff;
+	color: #fff !important;
 	background: #0d4f48;
 	padding: 1em 1.25em;
 }
