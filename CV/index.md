@@ -1,3 +1,3 @@
 ---
-title: Elizabeth Coker CV
+title: CV
 ---
