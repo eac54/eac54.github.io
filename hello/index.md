@@ -1,6 +1,5 @@
 ---
 title: Hello world
-layout: default
 ---
 
 The *quick* brown **fox** jumped over the lazy dog.
