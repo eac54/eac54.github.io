@@ -1,5 +1,5 @@
-* [CV](/hello)
-* [Publications](/)
-* [Science writing](/)
-* [Software](/)
+* [CV](/CV)
+* [Publications](/Publications)
+* [Science writing](/Writing)
+* [Software](/Software)
 {: .nav}
