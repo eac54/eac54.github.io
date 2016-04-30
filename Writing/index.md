@@ -1,3 +1,3 @@
 ---
-title: Elizabeth Coker Science Writing
+title: Science Writing
 ---
