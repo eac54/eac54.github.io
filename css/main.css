@@ -104,7 +104,9 @@ Layout styles
 {
 	color: #fff;
 	background: #000;
-	padding: 1em 1.25em;
+	padding: 0.5em 1.25em;
+	position: fixed;
+	bottom: 0;
 }
 
 /* -----------------------
