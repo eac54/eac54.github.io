@@ -2,4 +2,4 @@
 layout: default
 title: Elizabeth Coker
 ---
-<p>content</p>
+content
