@@ -8,13 +8,14 @@ body
 	padding: 0;
 	color: #333;
 	background-color: #eee;
-	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	font: 1em/1.2 "Source Sans Pro", sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6
 {
 	margin: 0 0 .5em;
-	font-weight: 500;
+	font-family: "Lora", serif;
+	font-weight: 700;
 	line-height: 1.1;
 }
 
