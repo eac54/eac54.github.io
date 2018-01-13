@@ -1,6 +1,0 @@
----
-title: CV
----
-
-
-Coming soon...
