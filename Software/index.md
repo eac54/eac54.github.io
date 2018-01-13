@@ -3,4 +3,4 @@ title: Software
 ---
 
 
-Coming soon...
+* [SiGNet: a Cytoscape App for producing network inference benchmarking data](http://apps.cytoscape.org/apps/signetapp)
