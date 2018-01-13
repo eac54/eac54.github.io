@@ -6,3 +6,5 @@ defaults:
       layout: "default"
       name: "Elizabeth Coker"
       markdown: "kramdown"
+plugins:
+  jekyll-redirect-from
